@@ -2,6 +2,7 @@
 
 I build open-source tools for the masses :)
 
+
 ## What I've Built
 
 <table>
@@ -43,6 +44,9 @@ Lots of updates for SlingShot on the way, also working on a really cheap WAN smo
 </td>
 </tr>
 </table>
+
+---
+![meme](https://github.com/user-attachments/assets/31019386-f42d-4209-8f10-561ce5ca7d5e)
 
 ---
 
